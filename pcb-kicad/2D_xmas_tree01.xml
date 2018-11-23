@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\WIN-7\Dropbox\KiCad\2D_xmas_tree\2D_xmas_tree01.sch</source>
+    <date>01.11.2018 18:44:39</date>
+    <tool>Eeschema (5.0.1)-rc2</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>20 LED charlieplexing with ATtiny25</title>
+        <company>designer2k2</company>
+        <rev/>
+        <date>2018-10-13</date>
+        <source>2D_xmas_tree01.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>ATTINY25-20SU</value>
+      <footprint>Castellation_Stuff_designer2k2:SOIC-8_Inside</footprint>
+      <libsource lib="atmel" part="ATTINY25-20SU" description="SO8 Wide, 2k Flash, 128B SRAM, 128B EEPROM, Debug Wire"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC0B603</tstamp>
+    </comp>
+    <comp ref="BT1">
+      <value>Battery_Cell</value>
+      <footprint>Castellation_Stuff_designer2k2:Keystone_1058_1x2032-CoinCell_Inside</footprint>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC23588</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC23856</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC2396E</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC239A1</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>R</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC23A2A</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC23AD1</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC23B1C</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>R</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC23B90</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC23C52</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC23C97</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>R</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC23D38</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC23DC4</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC23E0D</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>R</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC23EA3</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC24274</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC242D9</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC2463C</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC24689</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC247EE</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC24837</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC25667</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC256C2</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC2587F</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC258D8</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC25EDD</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>LED</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC25F32</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_SPDT</value>
+      <footprint>Castellation_Stuff_designer2k2:PCM12SMTR_inside</footprint>
+      <libsource lib="switches" part="SW_SPDT" description="Switch, single pole double throw"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC2A728</tstamp>
+    </comp>
+    <comp ref="BT2">
+      <value>Battery_Cell</value>
+      <footprint>Castellation_Stuff_designer2k2:Keystone_1058_1x2032-CoinCell_Inside</footprint>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BC2B4EC</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>ISP</value>
+      <footprint>Socket_Strips:Socket_Strip_Straight_2x03_Pitch2.54mm</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="conn" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BD4562B</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BD47163</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>C</value>
+      <footprint>Castellation_Stuff_designer2k2:0805_Internal_Castellation</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5BD5295D</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="atmel" part="ATTINY25-20SU">
+      <aliases>
+        <alias>ATTINY45-20SU</alias>
+        <alias>ATTINY85-20SU</alias>
+      </aliases>
+      <description>SO8 Wide, 2k Flash, 128B SRAM, 128B EEPROM, Debug Wire</description>
+      <docs>http://www.atmel.com/images/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATTINY25-20SU</field>
+        <field name="Footprint">Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PB5(~RESET~/dW/ADC0/PCINT5)" type="BiDi"/>
+        <pin num="2" name="PB3(XTAL1/CLKI/~OC1B~/ADC3/PCINT3)" type="BiDi"/>
+        <pin num="3" name="PB4(XTAL2/CLKO/OC1B/ADC2/PCINT4)" type="BiDi"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="PB0(MOSI/DI/SDA/AIN0/OC0A/~OC1A~/AREF/PCINT0)" type="BiDi"/>
+        <pin num="6" name="PB1(MISO/DO/AIN1/OC0B/OC1A/PCINT1)" type="BiDi"/>
+        <pin num="7" name="PB2(SCK/USCK/SCL/T0/INT0/ADC1/PCINT2)" type="BiDi"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_02x03_Odd_Even">
+      <description>Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*2x??x*mm*</fp>
+        <fp>Connector*:*2x???Pitch*</fp>
+        <fp>Pin_Header_Straight_2X*</fp>
+        <fp>Pin_Header_Angled_2X*</fp>
+        <fp>Socket_Strip_Straight_2X*</fp>
+        <fp>Socket_Strip_Angled_2X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x03_Odd_Even</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="switches" part="SW_SPDT">
+      <description>Switch, single pole double throw</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPDT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="atmel">
+      <uri>C:\Program Files\KiCad\share\kicad\library/atmel.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library/conn.lib</uri>
+    </library>
+    <library logical="switches">
+      <uri>C:\Program Files\KiCad\share\kicad\library/switches.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(BT1-Pad1)">
+      <node ref="BT1" pin="1"/>
+      <node ref="BT2" pin="1"/>
+      <node ref="SW1" pin="1"/>
+    </net>
+    <net code="2" name="Net-(SW1-Pad3)">
+      <node ref="SW1" pin="3"/>
+    </net>
+    <net code="3" name="Net-(R4-Pad2)">
+      <node ref="U1" pin="2"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="4" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2"/>
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="5" name="/MISO">
+      <node ref="J1" pin="1"/>
+      <node ref="R2" pin="2"/>
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="6" name="/MOSI">
+      <node ref="R1" pin="2"/>
+      <node ref="U1" pin="5"/>
+      <node ref="J1" pin="4"/>
+    </net>
+    <net code="7" name="/SCK">
+      <node ref="J1" pin="3"/>
+      <node ref="U1" pin="7"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="J1" pin="6"/>
+      <node ref="C1" pin="2"/>
+      <node ref="BT1" pin="2"/>
+      <node ref="U1" pin="4"/>
+      <node ref="BT2" pin="2"/>
+    </net>
+    <net code="9" name="/VCC">
+      <node ref="R6" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="U1" pin="8"/>
+      <node ref="J1" pin="2"/>
+      <node ref="SW1" pin="2"/>
+    </net>
+    <net code="10" name="/RESET">
+      <node ref="R6" pin="2"/>
+      <node ref="U1" pin="1"/>
+      <node ref="J1" pin="5"/>
+    </net>
+    <net code="11" name="Net-(D13-Pad1)">
+      <node ref="D14" pin="2"/>
+      <node ref="D13" pin="1"/>
+      <node ref="R5" pin="1"/>
+      <node ref="D17" pin="1"/>
+      <node ref="D8" pin="2"/>
+      <node ref="D18" pin="2"/>
+      <node ref="D7" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="D20" pin="2"/>
+    </net>
+    <net code="12" name="Net-(D1-Pad2)">
+      <node ref="D2" pin="1"/>
+      <node ref="D19" pin="2"/>
+      <node ref="D20" pin="1"/>
+      <node ref="D1" pin="2"/>
+      <node ref="R1" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="D15" pin="2"/>
+      <node ref="D9" pin="2"/>
+      <node ref="D10" pin="1"/>
+    </net>
+    <net code="13" name="Net-(D10-Pad2)">
+      <node ref="R3" pin="1"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D13" pin="2"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D10" pin="2"/>
+      <node ref="D4" pin="2"/>
+      <node ref="D6" pin="1"/>
+      <node ref="D5" pin="2"/>
+      <node ref="D9" pin="1"/>
+    </net>
+    <net code="14" name="Net-(D11-Pad1)">
+      <node ref="D12" pin="2"/>
+      <node ref="D15" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="R4" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D6" pin="2"/>
+      <node ref="D7" pin="2"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D16" pin="2"/>
+    </net>
+    <net code="15" name="Net-(D1-Pad1)">
+      <node ref="D11" pin="2"/>
+      <node ref="D12" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D3" pin="2"/>
+      <node ref="D2" pin="2"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D17" pin="2"/>
+      <node ref="D18" pin="1"/>
+    </net>
+  </nets>
+</export>

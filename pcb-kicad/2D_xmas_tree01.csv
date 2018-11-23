@@ -1,0 +1,9 @@
+Reference Type; Quantity; Reference; Value; Footprint;RS;Digikey
+BT;2;"BT1;BT2;";Battery_Cell;2016;;
+C;1;"C1;";C;0805;;
+D;20;"D1;D2;D3;D4;D5;D6;D7;D8;D9;D10;D11;D12;D13;D14;D15;D16;D17;D18;D19;D20;";LED;0805;;
+J;1;"J1;";ISP;;;
+R;5;"R1;R2;R3;R4;R5;";R;0805;;
+R;1;"R6;";10k;0805;;
+SW;1;"SW1;";SW_SPDT;PCM12SMTR;;
+U;1;"U1;";ATTINY25-20SU;SOIC8;;

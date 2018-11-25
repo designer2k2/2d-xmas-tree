@@ -17,3 +17,7 @@ All files including the Code for the ATtiny and the KiCad Files for the PCB are 
 a helper to get the patterns graphically made: https://designer2k2.github.io/2d-xmas-tree/
 
 ![GUI demonstration](https://github.com/designer2k2/2d-xmas-tree/raw/master/img/animation.gif)
+
+## make your own
+
+see the wiki page on how to make it: https://github.com/designer2k2/2d-xmas-tree/wiki

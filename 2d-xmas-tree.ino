@@ -40,7 +40,7 @@
 #include <avr/pgmspace.h>
 
 //Enter the light pattern here:
-//use the online generator: https://grweirioreh.reihrg.eu
+//use the online generator: https://designer2k2.github.io/2d-xmas-tree/
 //dont forget to update the number of rows if changed
 
 static const bool state_table[14][21] PROGMEM = {
